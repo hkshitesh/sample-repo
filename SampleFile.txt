@@ -1,3 +1,10 @@
 This is my sample file.
 It has been created using GitHub
 i made change in this repo
+
+
+
+It has been created using GitHub.
+Hello Devops Class
+Edited this file in practies session
+
