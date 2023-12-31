@@ -8,3 +8,6 @@ It has been created using GitHub.
 Hello Devops Class
 Edited this file in practies session
 
+Hi, I'm KR from devops class
+
+This file has been edited during revision session
